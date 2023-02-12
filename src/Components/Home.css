@@ -1,0 +1,21 @@
+.imgSize{
+    height: 500px;
+}
+
+.imgnew{
+    transition: 0.4s ease-in-out;
+    opacity: 1;
+
+
+}
+
+.imgnew:hover{
+    height: 400px;
+    size: inherit;
+    cursor: pointer;
+    opacity: 1;
+
+
+
+
+}
